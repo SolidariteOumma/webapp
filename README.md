@@ -1,5 +1,9 @@
-![logo](ressources/logo/logo-mono-nooutline-white.svg#gh-dark-mode-only)
-![logo](ressources/logo/logo-colored.svg#gh-light-mode-only)
+<div style="width: 280px; margin: 1em auto 2em;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="ressources/logo/logo-mono-nooutline-white.svg">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="ressources/logo/logo-colored.svg">
+    </picture>
+</div>
 
 # Bienvenue !
 Vous retrouverez ici le code source de notre site Solidarité Oumma !
