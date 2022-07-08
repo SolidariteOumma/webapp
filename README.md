@@ -1,7 +1,7 @@
-<div style="width: 280px; margin: 1em auto 2em;">
+<div style="margin: 1em auto 2em; text-align: center;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="ressources/logo/logo-mono-nooutline-white.svg">
-        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="ressources/logo/logo-colored.svg">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="ressources/logo/logo-colored.svg" style="width: 280px;">
     </picture>
 </div>
 
