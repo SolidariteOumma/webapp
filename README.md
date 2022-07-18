@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml)
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="ressources/logo/logo-mono-nooutline-white.svg">
