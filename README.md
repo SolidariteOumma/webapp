@@ -1,5 +1,4 @@
-![Yarn Build](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml/badge.svg)
-
+[![Node.js CI](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml)
 
 <p align="center">
     <picture>
