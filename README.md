@@ -1,3 +1,6 @@
+![Yarn Build](https://github.com/SolidariteOumma/webapp/actions/workflows/node.js.yml/badge.svg)
+
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="ressources/logo/logo-mono-nooutline-white.svg">
